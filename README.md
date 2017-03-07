@@ -1,4 +1,20 @@
 # edison
+## Introducción
+
+Hay 2 versiones: v1.0 y v2.0
+
+(La 2 incluye encoder en las 2 ruedas y se resuelve la deriva)
+
+### Sensores
+
+* Deteccion de obstáculos derecho e izquierdo
+* 1 Seguilínecesitamos
+* Receptor de IR (38Khz)
+* Siguelíneas (1 solo sensor)
+* 2 fototransistores
+* Sensor de sonido (piezoeléctrico)
+
+Procesador de 8bits Freescale  8kb
 
 ## [Descargas](https://meetedison.com/download/)
 
