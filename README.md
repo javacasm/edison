@@ -1,9 +1,17 @@
 # edison
+
+## Precauciones
+
+Conviene disponer de bastante espacio libre sobre la mesa (50cm).
+Se mueve bastante rápido, con lo que hay que estár atento!!
+
 ## Introducción
 
 Hay 2 versiones: v1.0 y v2.0
 
 (La 2 incluye encoder en las 2 ruedas y se resuelve la deriva)
+
+
 
 ### Sensores
 
@@ -22,9 +30,23 @@ Se programa con un cable específico (EdComm) que se conecta a la salida de audi
 
 #### Programación con código de barras
 
-Podemos grabar un programa sencillo sin más que leer un código, lo que activa un programa: siguelíneas, esquivaobstáculos, control por sonido, sigueluz
+Podemos grabar un programa sencillo sin más que leer un código, lo que activa un programa:
+
+* Esquivaobstáculos
+* Siguelíneas
+* Sigueluz
+* control por sonido
+* Rebota en los bordes
+* Sumo wrestle
 
 Podemos usar código de barras para  hacer que responda con ciertos movimiento a ciertas teclas del mando a distancia
+(programamos un movimiento para un botón (código) del mando)
+
+Para leer un código, lo colocamos a la derecha (suele haber una flecha) y pulsamos 3 veces el botón de grabación. El robot se mueve sobre el código y lo lee
+
+#### Manejo con mandos a distancia
+
+Se pueden usar diversos modelos de mandos a distancia. Los Sony y los Sansung funcionan perfectamente. Algunos otros como Philips no son compatibles
 
 ## [Descargas](https://meetedison.com/download/)
 
@@ -46,6 +68,13 @@ Se puede programar con bloques, python y código de bárras
 
 [Edison robot activities: programmer](https://meetedison.com/wp-content/uploads/2015/04/EdBook2-Your-EdVenture-into-Robotics-You-re-a-Programmer.pdf?x20535)
 
+### Montaje de varios
+
+Podemos colocar varios conectados (físicamente con los pines de lego) consiguiendo más motores (se comunican entre ellos)
+
+Ejemplo Impresora/plotter
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yZILrtHUCxQ" frameborder="0" allowfullscreen></iframe>
 
 ## Instalación en Linux
 
