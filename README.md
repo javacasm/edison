@@ -19,3 +19,22 @@ Se puede programar con bloques, python y código de bárras
 [Edison robot activities: controller](https://meetedison.com/wp-content/uploads/2015/04/EdBook1-Your-EdVenture-into-Robotics-You-re-a-Controller.pdf?x20535)
 
 [Edison robot activities: programmer](https://meetedison.com/wp-content/uploads/2015/04/EdBook2-Your-EdVenture-into-Robotics-You-re-a-Programmer.pdf?x20535)
+
+
+## Instalación en Linux
+
+
+Para ejecutar el software EdWare necesitamos instalar algunas dependencias. Para facilitar la instalación usaremos pyp. Lo instalamos con:
+
+    sudo apt install pyp
+
+Ahora instalamos los paquetes necesarios con:
+
+    sudo pip install jsonpickle
+    sudo pip install pygame
+
+
+Ya podemos ejecutarlo con
+
+
+  python edware.py
