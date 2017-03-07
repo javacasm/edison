@@ -16,6 +16,16 @@ Hay 2 versiones: v1.0 y v2.0
 
 Procesador de 8bits Freescale  8kb
 
+### Programación
+
+Se programa con un cable específico (EdComm) que se conecta a la salida de audio (del tablet, móvil Android, Raspberry, PC, ...) y que se coloca encima del sensor siguelíneas
+
+#### Programación con código de barras
+
+Podemos grabar un programa sencillo sin más que leer un código, lo que activa un programa: siguelíneas, esquivaobstáculos, control por sonido, sigueluz
+
+Podemos usar código de barras para  hacer que responda con ciertos movimiento a ciertas teclas del mando a distancia
+
 ## [Descargas](https://meetedison.com/download/)
 
  [Descargas de software](https://meetedison.com/robot-programming-software/)
