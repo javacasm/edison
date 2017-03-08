@@ -12,6 +12,12 @@ Hay 2 versiones: v1.0 y v2.0
 (La 2 incluye encoder en las 2 ruedas y se resuelve la deriva)
 
 
+## Precio
+
+49€ uno
+36.9€ si compramos 10
+
+
 
 ### Sensores
 
@@ -50,7 +56,7 @@ Se pueden usar diversos modelos de mandos a distancia. Los Sony y los Sansung fu
 
 ## [Descargas](https://meetedison.com/download/)
 
- [Descargas de software](https://meetedison.com/robot-programming-software/)
+[Descargas de software](https://meetedison.com/robot-programming-software/)
 
 Hay aplicaciones (open https://github.com/Bdanilko/Edware) para Windows, Linux, MacOS, Android, iOS, web ([web bloques](http://edwareapp.com/?_ga=1.150026806.1695549331.1454041273#) [Web python](http://www.edpyapp.com/))
 
