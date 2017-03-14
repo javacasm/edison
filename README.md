@@ -11,6 +11,7 @@ Hay 2 versiones: v1.0 y v2.0
 
 (La 2 incluye encoder en las 2 ruedas y se resuelve la deriva)
 
+[Edison FAQ](https://meetedison.com/edison-robot-support/edison-robot-faq/)
 
 ## Precio
 
@@ -63,12 +64,20 @@ Hay aplicaciones (open https://github.com/Bdanilko/Edware) para Windows, Linux, 
 Se puede programar con bloques, python y código de bárras
 
 
+![bloques](https://meetedison.com/wp-content/uploads/2015/04/robot-programming-software-edware.jpg?x20535)
 
+[Edware online (bloques)](http://edwareapp.com/?_ga=1.150026806.1695549331.1454041273#)
+
+[Edpy online](http://www.edpyapp.com/#checkcode)
 ## Libros
 
 [10 Robotics lesson  plans](https://meetedison.com/wp-content/uploads/2015/04/Your-EdVenture-into-Robotics-10-Lesson-Plans.pdf?x20535)
 
+[Libro de actividades](https://meetedison.com/robot-activities/)
+
 ¿Traducirlo al español?
+
+
 
 [Edison robot activities: controller](https://meetedison.com/wp-content/uploads/2015/04/EdBook1-Your-EdVenture-into-Robotics-You-re-a-Controller.pdf?x20535)
 
