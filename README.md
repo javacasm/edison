@@ -87,7 +87,9 @@ Se puede programar con bloques, python y código de bárras
 
 Podemos colocar varios conectados (físicamente con los pines de lego) consiguiendo más motores (se comunican entre ellos)
 
-Ejemplo Impresora/plotter
+Ejemplo [Impresora/plotter](https://meetedison.com/robot-activities/robot-builder/printer/)
+
+![Impresra](https://meetedison.com/wp-content/uploads/2015/12/Lego-robot-printer.jpg?x20535)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yZILrtHUCxQ" frameborder="0" allowfullscreen></iframe>
 
